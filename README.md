@@ -1,5 +1,8 @@
 # R Weather
-What is this?
+R Weather is my little forecast app built with [ReactJS]() using the [TypeScript]() syntax. The data
+printed come from an API through [axion]() get requests.
+
+
 
 ## About the source
 Base on the six best weather apis
